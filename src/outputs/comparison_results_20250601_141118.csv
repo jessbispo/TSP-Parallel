@@ -1,0 +1,4 @@
+Arquivo,Cidades,Iteracoes,Restarts,Seed,Tempo_Linear,Tour_Linear,Tempo_Paralelo,Tour_Paralelo,Speedup,Melhoria_Qualidade
+ex01.in,58,2000,20,17,.352359186,25395,.127384899,25395,2.76,Iguais
+ex02.in,3,2000,20,17,.010266032,0.3,.012332490,0.3,.83,Iguais
+ex03.in,561,1200,20,17,54.647130444,15509,15.502044312,16326,3.52,Linear melhor
